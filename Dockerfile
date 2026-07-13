@@ -17,8 +17,6 @@ RUN pip install --no-cache-dir \
     numpy \
     matplotlib \
     scipy \
-    pandas \
-    seaborn \
     statsmodels \
     ipykernel && \
     pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu

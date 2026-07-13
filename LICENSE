@@ -11,14 +11,19 @@ You are free to:
 Under the following terms:
 - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made
 
-For ArXiv publication, please cite as:
-  @article{quantum_fourier_locking,
-    title={Quantum Fourier Locking Study},
-    author={moth-quantum},
-    year={2026},
-    eprint={XXXX.XXXXX},
-    archivePrefix={arXiv},
-    primaryClass={quant-ph}
-  }
+For ArXiv/Academic Citation:
+
+@misc{topel2026fourier,
+  title         = {Overcoming Fourier Locking in Quantum Data Re-uploading
+                   Classifiers via Spectral Homotopy},
+  author        = {Topel, Spencer},
+  year          = {2026},
+  eprint        = {XXXX.XXXXX},
+  archivePrefix = {arXiv},
+  primaryClass  = {quant-ph}
+}
+
+IMPORTANT: Update the eprint field with the actual arXiv identifier when submitting.
+This placeholder should match the cover letter's arXiv placeholder.
 
 No additional restrictions — You may use the material for any purpose without asking permission.

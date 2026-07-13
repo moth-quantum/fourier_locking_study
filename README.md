@@ -1,6 +1,6 @@
-# Quantum Fourier Locking Study
+# Overcoming Fourier Locking in Quantum Data Re-uploading Classifiers via Spectral Homotopy
 
-Benchmarking and analysis of quantum fourier locking techniques with machine learning acceleration.
+Experiments, data, and figure generation for 'Overcoming Fourier Locking in Quantum Data Re-uploading Classifiers via Spectral Homotopy' (Topel, 2026).
 
 ## License
 
@@ -9,15 +9,18 @@ See [LICENSE](LICENSE) for details.
 
 **For ArXiv/Academic Citation:**
 ```bibtex
-@article{quantum_fourier_locking,
-  title={Quantum Fourier Locking Study},
-  author={moth-quantum},
-  year={2026},
-  eprint={XXXX.XXXXX},
-  archivePrefix={arXiv},
-  primaryClass={quant-ph}
+@misc{topel2026fourier,
+  title         = {Overcoming Fourier Locking in Quantum Data Re-uploading
+                   Classifiers via Spectral Homotopy},
+  author        = {Topel, Spencer},
+  year          = {2026},
+  eprint        = {XXXX.XXXXX},
+  archivePrefix = {arXiv},
+  primaryClass  = {quant-ph}
 }
 ```
+
+**⚠️ Important:** Update the `eprint` field with the arXiv identifier when submitting. This should match the placeholder in your cover letter.
 
 ## Installation
 
@@ -52,8 +55,8 @@ docker compose up -d
 - **Python 3.11+**
 - **PyTorch** (CPU or GPU)
 - **PennyLane** (quantum computing framework)
-- **NumPy, SciPy, Pandas** (scientific computing)
-- **Matplotlib, Seaborn** (visualization)
+- **NumPy, SciPy** (scientific computing)
+- **Matplotlib** (visualization)
 - **Statsmodels** (statistical analysis)
 
 ## Quick Start

@@ -1,12 +1,18 @@
 # ✅ ArXiv Pre-Release Audit Complete
 
 ## Repository: fourier_locking_study
+## Paper: Overcoming Fourier Locking in Quantum Data Re-uploading Classifiers via Spectral Homotopy
 
+**Author**: Spencer Topel
 **Status**: ✅ **READY FOR PUBLIC RELEASE**
 
----
-
-## 🎯 What Was Done
+### 📋 **ArXiv Submission Checklist** ⚠️
+- ⚠️ **CITATION EPRINT PLACEHOLDER**: Update both:
+  1. README.md citation block (bibtex eprint field)
+  2. LICENSE file citation (bibtex eprint field)
+  3. Cover letter arXiv placeholder
+  
+  These three must match when you receive your arXiv identifier.
 
 ### 1. **Licensing** ✅
 - Added `LICENSE` file with **CC-BY-4.0** (Creative Commons Attribution 4.0 International)
