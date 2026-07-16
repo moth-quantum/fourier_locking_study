@@ -14,6 +14,7 @@ RUN pip install --no-cache-dir \
     jupyter \
     jupyterlab \
     pennylane \
+    scikit-learn \
     numpy \
     matplotlib \
     scipy \
