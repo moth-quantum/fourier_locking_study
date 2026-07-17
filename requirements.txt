@@ -1,6 +1,6 @@
 jupyter==1.1.1
 jupyterlab==4.5.9
-torch==2.12.0
+torch==2.13.0
 pennylane==0.45.0
 scikit-learn
 numpy==2.4.6
