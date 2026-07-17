@@ -14,13 +14,11 @@ See [LICENSE](LICENSE) for details.
                    Classifiers via Spectral Homotopy},
   author        = {Topel, Spencer},
   year          = {2026},
-  eprint        = {XXXX.XXXXX},
+  eprint        = {2607.11013},
   archivePrefix = {arXiv},
   primaryClass  = {quant-ph}
 }
 ```
-
-**⚠️ Important:** Update the `eprint` field with the arXiv identifier when submitting. This should match the placeholder in your cover letter.
 
 ## Installation
 
